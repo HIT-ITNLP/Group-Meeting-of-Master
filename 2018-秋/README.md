@@ -12,3 +12,4 @@
 - 2.2 随机森林与集成学习 [贾荫鹏]
 - 3.1 Capsule Network简介 [张思奇]
 - 3.2 Convolutional Seq2eq简介 [凌雪]
+- 4.1 文本情感分析简简介 [张义策]
