@@ -23,3 +23,4 @@
 - 8.2 包含情感信息的词嵌入技术 [张义策]
 - 9.1 Embeddings from Language Models(ELMo)简介[凌雪]
 - 9.2 HMM简介 [陶翌辉]
+- 10.1 条件随机场简介 [冯奔]
