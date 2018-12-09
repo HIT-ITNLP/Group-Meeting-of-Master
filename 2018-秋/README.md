@@ -24,3 +24,4 @@
 - 9.1 Embeddings from Language Models(ELMo)简介[凌雪]
 - 9.2 HMM简介 [陶翌辉]
 - 10.1 条件随机场简介 [冯奔]
+- 10.2 EM算法简介 [侯伟]
